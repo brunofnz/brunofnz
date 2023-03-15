@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills
+Languages
+
+    NodeJS
+
+Frameworks
+
+    React
+    Typescript
+    NestJS
+
+Others
+
+    Figma
+    Postman
+    AWS
